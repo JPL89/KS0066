@@ -1,7 +1,7 @@
 # KS0066
 <img
 
-  src="IMG_20230501_093139729.jpg"
+  src="https://github.com/josimarpereiraleite/KS0066/blob/main/IMG_20230501_093139729.jpg"
 
   alt="Alt text"
 
