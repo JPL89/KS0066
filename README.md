@@ -1,2 +1,2 @@
 # KS0066
-<img src="0.img">
+<img src="IMG_20230501_093139729.jpg">
